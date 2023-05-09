@@ -12,3 +12,8 @@ git commit -m "commit terminado compu nueva"
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
 git push -u origin master
+
+Para despues actualizar cambios:
+git add .
+git commit -m "Descripcion del cambioi"
+git push -u origin master

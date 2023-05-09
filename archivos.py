@@ -1,5 +1,5 @@
 def metodoUno():
-    ruta = "prueba.txt"
+    ruta = "archivo2.txt"
     with open(ruta, mode ="w", encoding="utf-8") as archivo:
         print("Hola Isaias", file=archivo)
         archivo.write("Hola en segunda linea")
