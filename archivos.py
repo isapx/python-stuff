@@ -41,6 +41,6 @@ if __name__ == "__main__":
 
 #crear un archivo que se llame alumnos.csv
 #este va a tener los datos de los alumnos separados por comas
-#datos a guardar: nombre, apellido paterno, apellido materno, carrera, numero de control,
-#ejemplo:Fulano,Lopez,Perez,IMC,22600025
+#datos a guardar: nombre, apellido paterno, apellido materno, carrera, numero de control, edad
+#ejemplo:Fulano,Lopez,Perez,IMC,22600025,23
 
